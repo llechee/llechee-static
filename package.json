@@ -1,0 +1,23 @@
+{
+  "name": "llechee-static",
+  "version": "1.0.1",
+  "description": "llechee static file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/llechee/llechee-static.git"
+  },
+  "keywords": [
+    "static",
+    "file"
+  ],
+  "author": "llechee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/llechee/llechee-static/issues"
+  },
+  "homepage": "https://github.com/llechee/llechee-static#readme"
+}
